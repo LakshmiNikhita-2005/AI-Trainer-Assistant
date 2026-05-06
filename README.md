@@ -1,4 +1,4 @@
-# AI MCQ Generator
+# AI Trainer Assistant
 
 This project is an AI-powered application that generates multiple-choice questions from study material.
 
